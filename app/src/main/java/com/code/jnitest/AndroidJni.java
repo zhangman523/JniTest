@@ -1,8 +1,4 @@
-/*
- * Copyright (C) 2015 备胎金服
- * 未经授权允许不得进行拷贝和修改
- *   http://www.btjf.com/
- */
+
 package com.code.jnitest;
 
 /**
