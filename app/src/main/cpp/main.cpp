@@ -3,6 +3,8 @@
 //
 
 #include "com_code_jnitest_AndroidJni.h"
+#include <string.h>
+#include <jni.h>
 
 JNIEXPORT jstring JNICALL Java_com_code_jnitest_AndroidJni_hello
         (JNIEnv *env, jobject thiz) {
